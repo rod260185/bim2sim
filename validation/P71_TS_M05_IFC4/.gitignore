@@ -1,0 +1,3 @@
+# Generated per-object STEP artifacts; retain audit scripts and reports.
+**/step_by_guid/
+__pycache__/
